@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'ChatChi',
       theme: appTheme(),
       debugShowCheckedModeBanner: false,
       home: const ChatScreen(),
