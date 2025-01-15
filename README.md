@@ -1,6 +1,9 @@
 # chatchi_new
 
-A new Flutter project.
+A Chat App with ChatGPT.
+
+### *Figma UI File*
+[Link to design](https://www.figma.com/proto/g9FGNqU5rySsWXZrh5pbgm/ChatChi?node-id=0-1&t=V0JfnpcwvsQPKHBe-1)
 
 ## Getting Started
 
